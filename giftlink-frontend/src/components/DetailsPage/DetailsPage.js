@@ -267,14 +267,4 @@ function DetailsPage() {
 }
 export default DetailsPage;
 
-Copied!
 
-Wrap Toggled!
-Click here for DetailsPage.css
-Evidence
-Document the GitHub URL for your repository. Optionally, include screenshots or a video of the completed Details Page.
-Verify that your implementation matches the task requirements and test the page to ensure it displays the gift details correctly and is styled as intended.
-Author(s)
-Skills Network
-
-© IBM Corporation. All rights reserved.
