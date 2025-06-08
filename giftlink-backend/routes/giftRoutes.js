@@ -1,3 +1,7 @@
+/*jshint esversion: 8 */
+
+
+
 router.get('/', async (req, res) => {
     try {
         // Task 1: Connect to MongoDB and store connection to db constant
